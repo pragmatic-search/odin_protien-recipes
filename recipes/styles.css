@@ -1,0 +1,32 @@
+/* styles.css */
+body{
+    margin-left: 10%;
+    background-color: hsl(0, 56%, 38%);
+}
+
+img{
+    height: 300px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+.title{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button{
+    background-color: white;
+    color: red;
+    width: 10%;
+    height: 10%;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.sub-body{
+    background-color: hsl(0, 48%, 60%);
+    margin-right: 10%;
+    padding: 5%;
+    padding-top: 2%;
